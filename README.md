@@ -11,6 +11,6 @@ How?
 - also stores documentation and default values
 - libjconf to parse config
 
-License:
+# License
 GPLv3 with a restriction:
 - not to be used in any way in the military and/or to harm
